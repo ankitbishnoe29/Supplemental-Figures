@@ -1,1 +1,1 @@
-Supplemental figures legends are provided in the docx file.
+Supplementary figures' legends are provided in the docx file.
